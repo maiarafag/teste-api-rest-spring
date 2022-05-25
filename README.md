@@ -12,7 +12,7 @@
 </p>
 
 # Sobre
-<p>Aplicaçõ de testes unitários para validar o sistema de gerenciamento de estoques de refrigerante desenvolvido em Spring Boot</p>
+<p>Aplicação de testes unitários para validar o sistema de gerenciamento de estoques de refrigerante desenvolvido em Spring Boot</p>
 
 # Objetivo
 <p>
