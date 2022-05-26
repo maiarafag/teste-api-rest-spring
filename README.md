@@ -1,6 +1,6 @@
-<h1 align="center">API REST para o gerenciamento de estoques de refrigerante</h1>
+<h1 align="center">Testes unitários em API REST com Spring Boot</h1>
 
-<p align="center">Criação de uma API REST para o gerenciamento de estoques de refrigerante com Spring Boot</p>
+<p align="center">Testes unitários de uma API REST para o gerenciamento de estoques de refrigerante com Spring Boot</p>
 
 
 <p align="center"> 
