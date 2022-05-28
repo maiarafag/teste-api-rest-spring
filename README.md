@@ -1,15 +1,7 @@
-<h1 align="center">Testes unitários em API REST com Spring Boot</h1>
+<h1>Testes unitários em API REST com Spring Boot</h1>
 
-<p align="center">Testes unitários de uma API REST para o gerenciamento de estoques de refrigerante com Spring Boot</p>
+<p>Testes unitários de uma API REST para o gerenciamento de estoques de refrigerante com Spring Boot</p>
 
-
-<p align="center"> 
- <a href="#sobre">Sobre</a> •
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#pre-requisitos">Pré Requisitos</a> 
- 
-</p>
 
 # Sobre
 <p>Aplicação de testes unitários para validar o sistema de gerenciamento de estoques de refrigerante desenvolvido em Spring Boot</p>
